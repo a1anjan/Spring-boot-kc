@@ -12,6 +12,14 @@
   to convert the HTTP request body into domain object, based on Accept header present in request.
   
  @ResponseBody -
+ 
+ @Repository -
+  
+ @Nullable - 
+ 
+ @Resource --
+ 
+ @Component 
   
   
   
