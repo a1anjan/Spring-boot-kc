@@ -27,6 +27,7 @@
  
  @Valid        --
  
+ @Autowired   --
  
  HTTP GET     - Retrive a rsource.
  
