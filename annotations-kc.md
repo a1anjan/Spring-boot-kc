@@ -12,14 +12,25 @@
   to convert the HTTP request body into domain object, based on Accept header present in request.
   
  @ResponseBody -
- 
  @Repository -
-  
  @Nullable - 
- 
  @Resource --
+ @Component -- 
+ @RequestMapping -- Maps all HTTP request by default. 
+ @RequestParam -- binds te value of query string parameter.
+ @Valid        --
  
- @Component 
+ 
+ HTTP GET     - Retrive a rsource.
+ HTTP POST    - Create a resource.
+ HTTP PUT     - Update a resource.
+ HTTP DELETE  - Delete a resource 
+ 
+ What is Java Persistence API (JPA)?
+ 
+ --> 
+ 
+ 
   
   
   
